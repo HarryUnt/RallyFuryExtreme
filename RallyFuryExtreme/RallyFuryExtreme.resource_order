@@ -1,0 +1,21 @@
+{
+  "FolderOrderSettings": [
+    {"name":"Conjuntos de casillas","order":1,"path":"folders/Conjuntos de casillas.yy",},
+    {"name":"Curvas de animación","order":9,"path":"folders/Curvas de animación.yy",},
+    {"name":"Extensiones","order":11,"path":"folders/Extensiones.yy",},
+    {"name":"Fuentes","order":6,"path":"folders/Fuentes.yy",},
+    {"name":"Líneas temporales","order":7,"path":"folders/Líneas temporales.yy",},
+    {"name":"Notas","order":10,"path":"folders/Notas.yy",},
+    {"name":"Rutas","order":3,"path":"folders/Rutas.yy",},
+    {"name":"Salas","order":12,"path":"folders/Salas.yy",},
+    {"name":"Scripts","order":4,"path":"folders/Scripts.yy",},
+    {"name":"Secuencias","order":8,"path":"folders/Secuencias.yy",},
+    {"name":"Shaders","order":5,"path":"folders/Shaders.yy",},
+    {"name":"Sonidos","order":2,"path":"folders/Sonidos.yy",},
+  ],
+  "ResourceOrderSettings": [
+    {"name":"Path1","order":3,"path":"paths/Path1/Path1.yy",},
+    {"name":"TileSet1","order":2,"path":"tilesets/TileSet1/TileSet1.yy",},
+    {"name":"Sprite1","order":1,"path":"sprites/Sprite1/Sprite1.yy",},
+  ],
+}
