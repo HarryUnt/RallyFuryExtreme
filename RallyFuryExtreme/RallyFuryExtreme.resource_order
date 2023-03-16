@@ -14,8 +14,6 @@
     {"name":"Sonidos","order":2,"path":"folders/Sonidos.yy",},
   ],
   "ResourceOrderSettings": [
-    {"name":"Path1","order":3,"path":"paths/Path1/Path1.yy",},
-    {"name":"TileSet1","order":2,"path":"tilesets/TileSet1/TileSet1.yy",},
     {"name":"Sprite1","order":1,"path":"sprites/Sprite1/Sprite1.yy",},
   ],
 }
