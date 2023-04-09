@@ -12,8 +12,12 @@
     {"name":"Secuencias","order":8,"path":"folders/Secuencias.yy",},
     {"name":"Shaders","order":5,"path":"folders/Shaders.yy",},
     {"name":"Sonidos","order":2,"path":"folders/Sonidos.yy",},
+    {"name":"Objetos","order":13,"path":"folders/Objetos.yy",},
   ],
   "ResourceOrderSettings": [
+    {"name":"SubImpWRC2002Left","order":1,"path":"sprites/SubImpWRC2002Left/SubImpWRC2002Left.yy",},
+    {"name":"SubImpWRC2002Jump","order":2,"path":"sprites/SubImpWRC2002Jump/SubImpWRC2002Jump.yy",},
+    {"name":"SubImpWRC2002Idle","order":3,"path":"sprites/SubImpWRC2002Idle/SubImpWRC2002Idle.yy",},
     {"name":"Sprite1","order":1,"path":"sprites/Sprite1/Sprite1.yy",},
   ],
 }

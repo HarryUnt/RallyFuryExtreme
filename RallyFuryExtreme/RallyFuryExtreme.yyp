@@ -25,6 +25,7 @@
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Shaders","folderPath":"folders/Shaders.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Sonidos","folderPath":"folders/Sonidos.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Sprites","folderPath":"folders/Sprites.yy",},
+    {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Objetos","folderPath":"folders/Objetos.yy",},
   ],
   "IncludedFiles": [],
   "isEcma": false,
@@ -33,7 +34,12 @@
     "IDEVersion": "2023.2.0.71",
   },
   "resources": [
+    {"id":{"name":"SubImpWRC2002Left","path":"sprites/SubImpWRC2002Left/SubImpWRC2002Left.yy",},},
+    {"id":{"name":"SubImpWRC2002Right","path":"sprites/SubImpWRC2002Right/SubImpWRC2002Right.yy",},},
+    {"id":{"name":"SubImpWRC2002Jump","path":"sprites/SubImpWRC2002Jump/SubImpWRC2002Jump.yy",},},
+    {"id":{"name":"SubImpWRC2002Idle","path":"sprites/SubImpWRC2002Idle/SubImpWRC2002Idle.yy",},},
     {"id":{"name":"Sprite1","path":"sprites/Sprite1/Sprite1.yy",},},
+    {"id":{"name":"ObjSuBImp02","path":"objects/ObjSuBImp02/ObjSuBImp02.yy",},},
     {"id":{"name":"Sala1","path":"rooms/Sala1/Sala1.yy",},},
   ],
   "RoomOrderNodes": [
